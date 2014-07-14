@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SFML_Project_64_Bit.exe" version="1.0.0.0" publicKeyToken="5765e31650eff9b2" language="neutral" processorArchitecture="amd64" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SFML_Project_64_Bit" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+    <commandLine file="SFML_Project_64_Bit.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SFML_Project_64_Bit.exe" size="5632">
+      <assemblyIdentity name="SFML_Project_64_Bit" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>iPyyKwnbsWAOLp6yGUTqjwGX7z4cneEqzX4pXgk/sfU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sfmlnet-audio-2.dll" size="20992">
+      <assemblyIdentity name="sfmlnet-audio-2" version="2.1.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CEzf8UbMOjxkGxP1qfrq8MvU/qddRuiRuWnYgEYEaJ4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sfmlnet-graphics-2.dll" size="46080">
+      <assemblyIdentity name="sfmlnet-graphics-2" version="2.1.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MJ8lfxe+w9rSAYaClC33HR5lyDfAbwNHJjPOX5qy0PQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sfmlnet-window-2.dll" size="26624">
+      <assemblyIdentity name="sfmlnet-window-2" version="2.1.0.0" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WXzgjsdYGwDnC8jSNUJbWlZwid/N5+zo4JKybMpxEog=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="csfml-audio-2.dll" size="69120">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>08Wzfh4eezZa3j0s4zpRCDWLYjSAbtw+uLxNhZiKsZg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="csfml-graphics-2.dll" size="1005056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nVJaPeqvwJBu8e4oh8jm92szXdATfCN4FMp/OHmUmyo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="csfml-window-2.dll" size="81408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qD3rzfUBf735Nn16p46pLpj+STrZEfVjtm64YQkUQoY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libsndfile-1.dll" size="2311680">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uMnoCAn7EpK/P5o+JJq0RPqgflrlFd2xPQie5Pl3v1I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="openal32.dll" size="418816">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AGepbqye1hMa91plhuAdS04hNRgdO3LBWw55Ogbw+HE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SFML_Project_64_Bit.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=WhySoSad-PC\WhySoSad" issuerKeyHash="cf609d90baaff7ada02ee0d4b2ea8cddcb981e39" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+5h6K7PEV/KQtQgVPCe+9TCNpbLa3RZ1pr19+KxYxnM=</DigestValue></Reference></SignedInfo><SignatureValue>WbCICWvw/oziVnA/ZBjsEhmKV1MCSxfUe0aEAe+Krv+kMTQ2CEF++r4G3mTDZn+GjXY4qZpb4c2liUrzWGVHIg9gZuvPjezU8CFo6Wb9nvjcRnrcBrqqkjxoVjRTQ0FQhKJCbQ5oWCkW4qlqELyl01ycZWMsBZhTTJhI0pTnnzQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uxKkTUhoMjuTqQk8zdeaxJ+lSG+jc4eQSVOSH3b8Eyf3cuFAbGYpr7zYNDEWnOnfFSeoToqpazzuAr0cksIYpnYN+f9LSj+V8NzlaQ4EIFtlCXb+chBOZ3XWk9ULPk+fNrncHXQQWgNO/t5DXNMb95i2XB0WwVRz+ScPs9c5nPk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="73c658acf87dbda67516dddab2a58d30f5be273c1508b590f257c4b32b7a98fb" Description="" Url=""><as:assemblyIdentity name="SFML_Project_64_Bit.exe" version="1.0.0.0" publicKeyToken="5765e31650eff9b2" language="neutral" processorArchitecture="amd64" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WhySoSad-PC\WhySoSad</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rK1jzEZqOa6CZafLHWmxURb1hkk3eBDXU9C41AM0lIs=</DigestValue></Reference></SignedInfo><SignatureValue>Km2KvqvYN2OCMTFO140JuIfdFEC4naiWwvm+OoYC7DlXff7Fc8LyheOj1TfW8zYE+ZqhiiwyMYXzpqC3jSQtBECxtspu31B15yYHDTppzjA0WWlUwqtF2VoesyUGZlzzMS9Vj7oHEPEnqqjBmcVuEVnsreauVYtoP+JAAlKTWUA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uxKkTUhoMjuTqQk8zdeaxJ+lSG+jc4eQSVOSH3b8Eyf3cuFAbGYpr7zYNDEWnOnfFSeoToqpazzuAr0cksIYpnYN+f9LSj+V8NzlaQ4EIFtlCXb+chBOZ3XWk9ULPk+fNrncHXQQWgNO/t5DXNMb95i2XB0WwVRz+ScPs9c5nPk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQGvNQ8/T+pa1GrriKGpzXxDANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAVwBoAHkAUwBvAFMAYQBkAC0AUABDAFwAVwBoAHkAUwBvAFMAYQBkMB4XDTE0MDcxNDEyMDIxNFoXDTE1MDcxNDE4MDIxNFowMzExMC8GA1UEAx4oAFcAaAB5AFMAbwBTAGEAZAAtAFAAQwBcAFcAaAB5AFMAbwBTAGEAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuxKkTUhoMjuTqQk8zdeaxJ+lSG+jc4eQSVOSH3b8Eyf3cuFAbGYpr7zYNDEWnOnfFSeoToqpazzuAr0cksIYpnYN+f9LSj+V8NzlaQ4EIFtlCXb+chBOZ3XWk9ULPk+fNrncHXQQWgNO/t5DXNMb95i2XB0WwVRz+ScPs9c5nPkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCTMRXlZGBOuBjR0GPH/s9FpBRgAU3cssGL69YXMYN4eqe7lhMNm6TDd2e0JSRYa+YyeNx1ArEW404V90x8kPf0xRV19P3vQEz85qZY5KiuCFBKRzWwcYjmHOtUZpklMwSsteCWSnbhqLGS99zxammNsR/Ai/POdNrOpsm/4OnH6Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

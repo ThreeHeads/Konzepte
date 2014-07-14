@@ -1,0 +1,15 @@
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\csfml-audio-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\csfml-graphics-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\csfml-window-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\libsndfile-1.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\openal32.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\SFML_Project_64_Bit.exe.config
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\SFML_Project_64_Bit.exe.manifest
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\SFML_Project_64_Bit.application
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\SFML_Project_64_Bit.exe
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Release\SFML_Project_64_Bit.pdb
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Release\SFML_Project_64_Bit.csprojResolveAssemblyReference.cache
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Release\SFML_Project_64_Bit.exe.manifest
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Release\SFML_Project_64_Bit.application
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Release\SFML_Project_64_Bit.exe
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Release\SFML_Project_64_Bit.pdb

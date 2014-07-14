@@ -1,0 +1,15 @@
+c:\users\whysosad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\SFML_Project_64_Bit.exe.config
+c:\users\whysosad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\SFML_Project_64_Bit.exe
+c:\users\whysosad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\SFML_Project_64_Bit.pdb
+c:\users\whysosad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Debug\SFML_Project_64_Bit.exe
+c:\users\whysosad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Debug\SFML_Project_64_Bit.pdb
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\csfml-audio-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\csfml-graphics-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\csfml-window-2.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\libsndfile-1.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\openal32.dll
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Debug\SFML_Project_64_Bit.csprojResolveAssemblyReference.cache
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\SFML_Project_64_Bit.exe.manifest
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\bin\Debug\SFML_Project_64_Bit.application
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Debug\SFML_Project_64_Bit.exe.manifest
+C:\Users\WhySoSad\documents\visual studio 2013\Projects\SFML_Project_64_Bit\SFML_Project_64_Bit\obj\Debug\SFML_Project_64_Bit.application
